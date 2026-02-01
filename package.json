@@ -21,7 +21,7 @@
     "typescript": "^5.9.2"
   },
   "dependencies": {
-    "@libsql/client": "^0.15.14",
+    "@libsql/client": "^0.17.0",
     "@logsnag/node": "^1.0.1",
     "@slack/bolt": "^4.4.0",
     "dotenv": "^17.2.2",
